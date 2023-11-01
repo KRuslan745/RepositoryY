@@ -1,0 +1,8 @@
+total 24
+-rw-r--r-- 1 admin1 admin1  728 Oct 28 17:01 LR_Samsonkin_Kopytov_#1
+drwxr-xr-x 4 admin1 admin1 4096 Oct 28 17:34 cat1
+lrwxrwxrwx 1 admin1 admin1    8 Oct 28 17:41 link1 -> dir/date
+drwxr-xr-x 2 admin1 admin1 4096 Oct 28 17:46 dir
+-rw-r--r-- 1 admin1 admin1   32 Oct 28 17:49 curret_date
+-rw-r--r-- 1 admin1 admin1  281 Oct 28 17:49 LR_Samsonkin_Kopytov_#2
+-rw-r--r-- 1 admin1 admin1  435 Nov  1 08:47 LR_Samsonkin_Kopytov_#3

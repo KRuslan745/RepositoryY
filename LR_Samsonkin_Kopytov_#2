@@ -1,0 +1,14 @@
+
+.
+├── cat1
+│   ├── cat2
+│   │   └── cat5
+│   └── cat8
+├── curret_date
+├── dir
+│   └── curret_date
+├── link1 -> dir/date
+├── LR_Samsonkin_Kopytov_#1
+└── LR_Samsonkin_Kopytov_#2
+
+5 directories, 5 files
