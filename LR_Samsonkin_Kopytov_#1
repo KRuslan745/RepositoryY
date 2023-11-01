@@ -1,0 +1,18 @@
+man# output of the manual page
+info# output of the manual page in GNU textinfo format
+echo# output of a text string
+pwd# output of the user's current working directory
+date# output of the current system date and time
+who# displaying a list of users authorized in the system
+ls# output of the contents of a directory
+cat# output the contents of the files
+
+date >> text.txt # its very nice vivod vremeni i dati
+Sat 28 Oct 2023 04:46:42 PM +05
+pwd >> text.txt # its vivod tekuchego rabochego kataloga polzavotalya
+/home/admin1
+who >> text.txt # its vivod spiska avtorizovanix v sisteme polzavotalei
+admin1   tty1         2023-10-28 15:42
+ls >> text.txt # its vivod soderzhimogo kataloga
+d[2~p[2~[2~[2
+LR_Samsonkin_Kopytov_#1
