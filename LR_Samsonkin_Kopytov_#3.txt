@@ -1,0 +1,38 @@
+admin1 
+_apt
+avahi-autoipd
+backup
+bin
+daemon
+games
+gnats
+irc
+list
+lp
+mail
+man
+mana
+messagebus
+news
+nobody
+proxy
+root
+rootbob
+sshd
+sync
+sys
+syse
+systemd-coredump
+systemd-network
+systemd-resolve
+systemd-timesync
+uucp
+www-data
+less# Paginated output of the file
+split# Dividing the file into parts
+sort# Sort and/or merge files
+cut# Selection of individual fields from file lines
+head# Output of the initial lines of the file
+tail# Output of the end lines of the file
+diff# Identifying differences between files
+wc# Counting the number of characters, words and lines in a file
