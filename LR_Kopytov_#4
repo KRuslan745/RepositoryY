@@ -1,0 +1,14 @@
+find# performs a recusive traversal of the file system tree, 
+and searches for a file based on one or more.
+grep# To fearch for lines in a file containing a specific template
+gzip# is designed to compress one or more files
+bzip2# a utility thet uses the burrows-Wheeler transform for compression
+tar# is designed to pack a lot of files into an archive and extract them
+zip# performs both compression and archiving functions
+
+.
+├── archive.zip
+├── filelist2.txt
+├── filelist3.txt
+├── filelist.txt
+└── myarchive.tar
